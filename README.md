@@ -9,7 +9,7 @@ Hi There!! This template is the starter code to go alongside my YouTube tutorial
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd Svelte_Transitions_Animations_Starter
 npm install
 ```
 
